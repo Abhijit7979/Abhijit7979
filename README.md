@@ -4,13 +4,14 @@
     <img src="https://komarev.com/ghpvc/?username=Abhijit7979" alt="GitHub Profile Views">
 </a>
 
-<img width="55%" align="right" alt="Github Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 <a href="https://www.linkedin.com/in/abhijit79/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" /></a>
 <a href="https://github.com/Abhijit7979"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" /></a>
 <a href="mailto:abhijitrao79@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" /></a>
 
 <h2>🧠 Passionate about AI, driven by curiosity 🚀</h2>
+<img width="25%" align="right" alt="Github Banner" src="https://github.com/Abhijit7979/Abhijit7979/blob/main/img2.png" />
 
 <details>
   <summary>Education 📚</summary>
