@@ -47,6 +47,13 @@
   🔗 [GitHub](https://github.com/Abhijit7979/NASA-Turbofan-Jet-Engine)
 
 </details>
+<details>
+  <summary>Blogs 📝</summary>
+  <ul>
+    <li><a href="https://github.com/Abhijit7979/Agentic-Ai">Agentic-Ai</a></li>
+    
+  </ul>
+</details>
 
 <details>
   <summary>Technical Skills ⚙️</summary>
